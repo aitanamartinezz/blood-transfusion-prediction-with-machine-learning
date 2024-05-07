@@ -3,6 +3,7 @@ blood transfusion prediction with supervised machine learning
 
 
 INTRODUCTION
+
 In the realization of this project, a machine learning model is created to solve problems that could not be solved with classical programming. These innovative techniques allow computers to "learn," meaning the models significantly improve based on their experience (training).
 The problems this model can face are primarily two: classification problems and regression problems, but in this section, we will only address a classification problem.
 What are classification problems?
