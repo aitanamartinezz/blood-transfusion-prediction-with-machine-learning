@@ -26,8 +26,9 @@ These attributes contain the name of the variable, the unit of measurement, and 
 
 Next, we will carry out a more detailed analysis of each attribute since, for the resolution of the proposed problem, we consider all the attributes to be of great relevance.
 We show a part of our database (first 5 patterns) to get an idea of ​​how the patterns and attributes are distributed in it.
-Recency Frequency Monetary Time If blood was
-donated or not
+Recency Frequency Monetary Time If blood wasdonated or not
+
+
 2 50 12500 98 1
 0 13 3250 28 1
 1 16 4000 35 1
